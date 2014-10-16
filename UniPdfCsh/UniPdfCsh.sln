@@ -69,6 +69,6 @@ Global
 		{DFF55E85-879C-4CE8-97E6-5A9DED54683A}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = UniPdfCsh.csproj
+		StartupItem = iOS\UniPdfCsh.iOS.csproj
 	EndGlobalSection
 EndGlobal
